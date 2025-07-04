@@ -4,7 +4,7 @@
 ▶️ I am looking to collaborate with teams that aim to optimize program performance 🥇
 ▶️ My email is facundocordoba793@gmail.com 📫 📧
 ▶️ I enjoy sport fishing 🎣, survival skills, mountain hiking—anything ⛰️ related to connecting with nature. 🌲🌲
-▶️ My personal page  https://facu793.github.io/Pagina-Personal/
+
 
 <!---
 Facu793/Facu793 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
