@@ -1,4 +1,4 @@
-# 👋 Hola, soy Facu.Cordoba  
+# 👋 Hola, soy Facu 👋
 ### Software Development Student | Java • Spring • React • PostgreSQL • Docker
  ### 🧰 Tecnologías y herramientas
 <p>
