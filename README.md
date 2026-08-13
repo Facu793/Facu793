@@ -1,3 +1,4 @@
+
 # 👋 Hola, soy Facu 👋
 ### Estudiante de Desarrollo de Software | Java • Spring • React • PostgreSQL • Docker
  ### 🧰 Tecnologías y herramientas
@@ -13,6 +14,8 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" width="45" height="45" alt="VS Code" />
   <img src="https://registry.npmmirror.com/@lobehub/icons-static-png/latest/files/dark/cursor.png" width="45" height="45" alt="Cursor AI" />
    <img src="https://registry.npmmirror.com/@lobehub/icons-static-png/latest/files/dark/claude-color.png" width="45" height="45" alt="Claude AI" />
+   <img src="./assets/cursor.png" width="45" height="45" alt="Cursor" />
+   <img src="./assets/claude.png" width="45" height="45" alt="Claude" />
    
   
 
