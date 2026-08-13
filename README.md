@@ -1,6 +1,6 @@
 
 # 👋 Hola, soy Facu 👋
-### Estudiante de Desarrollo de Software | Java • Spring • React • PostgreSQL • Docker
+### Desarrollor de Software | Java • Spring • React • PostgreSQL • Docker
  ### 🧰 Tecnologías y herramientas
 <p>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width="45"/>
